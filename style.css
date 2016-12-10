@@ -1,0 +1,38 @@
+/* Your CSS goes here! */
+
+/* fonts */
+
+/* navigation */
+
+nav {
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0.5em 0;
+	margin: 0;
+}
+
+nav li {
+	display: inline;
+	padding: 0 0.5em;
+}
+
+nav a {
+	font-size: 0.9em;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+}
+
+nav a:hover {
+	color: black;
+}
+
+#video {
+	text-align: center;
+}
+

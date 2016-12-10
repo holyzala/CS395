@@ -1,1 +1,4 @@
-<p>Placeholder for Data Privacy Impact</p>
+---
+layout: default
+---
+## Placeholder for Data Privacy Impact
