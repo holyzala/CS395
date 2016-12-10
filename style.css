@@ -40,3 +40,8 @@ nav a:hover {
 	width: inherit;
 	color: white;
 }
+
+footer {
+	position: absolute;
+	bottom: 0px;
+}
