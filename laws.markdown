@@ -2,15 +2,15 @@
 layout: default
 ---
 ## Placeholder for Laws, future, etc
-[driverless-future.com](href="http://www.driverless-future.com/?cat=15)
+[driverless-future.com](http://www.driverless-future.com/?cat=15)
 
-[Removing Roadblocks to Intelligent Vehicles and Driverless Cars](href="https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)
+[Removing Roadblocks to Intelligent Vehicles and Driverless Cars](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)
 
-[Self-Driving the New Auto Industry Paradigm](href="http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Nov2013MORGAN-STANLEY-BLUE-PAPER-AUTONOMOUS-CARS%EF%BC%9A-SELF-DRIVING-THE-NEW-AUTO-INDUSTRY-PARADIGM.pdf)
+[Self-Driving the New Auto Industry Paradigm](http://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/Nov2013MORGAN-STANLEY-BLUE-PAPER-AUTONOMOUS-CARS%EF%BC%9A-SELF-DRIVING-THE-NEW-AUTO-INDUSTRY-PARADIGM.pdf)
 
-[Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations](href="http://www.sciencedirect.com/science/article/pii/S0965856415000804)
+[Preparing a nation for autonomous vehicles: opportunities, barriers and policy recommendations](http://www.sciencedirect.com/science/article/pii/S0965856415000804)
 
-[Driverless vehicles must have sophisticated moral algorithms, say researchers](href="http://www.cbc.ca/amp/1.3648029)
+[Driverless vehicles must have sophisticated moral algorithms, say researchers](http://www.cbc.ca/amp/1.3648029)
 
 ## Chris's Outline
 Permissionless model: Default is to allow new technologies until an issue arrises which is then dealt with sepcifically. Trial and error.  
