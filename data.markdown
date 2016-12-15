@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-## Placeholder for Data Privacy Impact
+## Autonomous Vehicles and Data Privacy
 
-https://www.washingtonpost.com/news/wonk/wp/2013/05/21/self-driving-cars-are-a-privacy-nightmare-and-its-totally-worth-it/?utm_term=.6cafd528aeed
-
- https://www.bryancave.com/en/thought-leadership/self-driving-vehicles-at-a-glance.html 
- 
-http://www.autoblog.com/2015/05/12/self-driving-cars-privacy-bigger-concern-than-safety/ 
-
-http://www.govtech.com/fs/Cybersecurity-Privacy-and-Safety-Among-Self-Driving-Car-Concerns-Raised-During-Senate-Hearing.html 
+[Self-driving cars are a privacy nightmare. And it’s totally worth it.](https://www.washingtonpost.com/news/wonk/wp/2013/05/21/self-driving-cars-are-a-privacy-nightmare-and-its-totally-worth-it/?utm_term=.6cafd528aeed)  
+[Evaluating Data Privacy and Security Issues of Self-Driving Vehicles](https://www.bryancave.com/en/thought-leadership/self-driving-vehicles-at-a-glance.html)  
+[For self-driving cars, privacy may be bigger concern than safety](http://www.autoblog.com/2015/05/12/self-driving-cars-privacy-bigger-concern-than-safety/)  
+[Cybersecurity, Privacy and Safety Among Self-Driving Car Concerns Raised During Senate Hearing](http://www.govtech.com/fs/Cybersecurity-Privacy-and-Safety-Among-Self-Driving-Car-Concerns-Raised-During-Senate-Hearing.html)
 
 Once self-driving cars hit the market, the world we once knew will no longer be the same. Car crashes will be a rare sighting and most of all people will no longer be behind the wheel. Our future with self-driving cars seems flawlessly perfect, but this is where we fall into trouble. Sometimes these great features blind us of the negative effects. Some of the obvious ones are jobs that will be lost and the ethical algorithm decisions. One of the biggest concerns that is not be looked over regarding self-driving cars is privacy. 
 
