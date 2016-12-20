@@ -25,7 +25,7 @@ It is evidently clear that cars are dangerous machines that do result in lives b
 ---
 
 | Assumed Adoption Rate | 10 | 50 | 90 |
-| --------------------- | -- | -- | -- |
+| --------------------- | --- | --- | --- |
 | Lives saved (per year) | 1,100 | 9,600 | 21,700 |
 | Fewer crashes | 21,100 | 1,880,000 | 4,220,000 |
 
