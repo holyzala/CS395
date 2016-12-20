@@ -32,6 +32,7 @@ When comparing the two tables it is obvious that the estimated lives saved when 
 ### Driver Impairment
 
 The fact that we put a heavier burden on autonomous vehicles than we do with human drivers is evident in that humans do not always drive in an ethical manner. The top two causes of car deaths were by speeding and drunk driving<sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>. In fact, 29% of fatalities in crashes were due to drunk driving and 28% of fatalities were from the result of driving too fast. You could conclude that a 100% adoption rate of autonomous vehicles would erase 29% of fatal crashes simply because a computer does not drink alcohol. Furthermore, autonomous vehicles would go a long way to prevent other fatal crashes involving fatigue, talking on a cell phone or other driving distractions that human drivers encounter almost every day.
+  
 ---
 When we discuss the ethical decisions an autonomous vehicle has to make to save a person’s life one most not forget to mention that since the first autonomous vehicle drove onto the roadways in 2009 there has only been 1 fatal accident involving an autonomous vehicle<sup>[5](https://www.ft.com/content/013d6f46-3f12-11e6-9f2c-36b487ebd80a)</sup> and only 17 minor crashes<sup>[3]((http://www.iii.org/issue-update/auto-crashes)</sup>. While there should be more communication between car and tech companies about how their cars will respond to one another, it is more important for people to ask if it is unethical for humans to continue driving.
 
