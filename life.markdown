@@ -15,15 +15,15 @@ This is clear when examining the ethical frameworks of some companies. For examp
 
 It is evidently clear that cars are dangerous machines that do result in lives being lost. This is probably why most questions have to do with who’s life should be saved in certain trolley problem like scenarios. While these questions are repetitive and tiresome to read it doesn’t mean that these questions shouldn’t be asked. However, it should be noted that self-driving cars are most likely going to be much safer than human drivers. Mercedes’s manager of driver assistance systems states, “Computer-driven cars will be able to react in ways that human drivers will not be able to handle. Besides, most of the time the car will prioritize not crashing in the first place.”<sup>[2](https://www.inverse.com/article/22204-mercedes-benz-self-driving-cars-ai-ethics)</sup>
 
-*Car Related Death's 2015* <sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>
-| Number of Deaths | 35,092 |
-| Deaths per 100k people | 10.9 |
+*Car Related Death's 2015* <sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>  
+| Number of Deaths | 35,092 |  
+| Deaths per 100k people | 10.9 |  
 
-*Estimated Annual Benefits* <sup>[4](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)</sup>
-| Assumed Adoption Rate | 10 | 50 | 90 |
-| --------------------- | -- | -- | -- |
-| Lives saved (per year) | 1,100 | 9,600 | 21,700 |
-| Fewer crashes | 21,100 | 1,880,000 | 4,220,000 |
+*Estimated Annual Benefits* <sup>[4](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)</sup>  
+| Assumed Adoption Rate | 10 | 50 | 90 |  
+| --------------------- | -- | -- | -- |  
+| Lives saved (per year) | 1,100 | 9,600 | 21,700 |  
+| Fewer crashes | 21,100 | 1,880,000 | 4,220,000 |  
 
 When comparing the two tables it is obvious that the estimated lives saved when the adoption rate reaches 90% almost erases the 2015 death totals. It is also safe to assume that injuries and insurance claims would drop as well. So if self-driving cars are so much safer than human drivers than why do we put a heavier burden on the self-driving car than we do with human drivers?
 
@@ -32,7 +32,7 @@ When comparing the two tables it is obvious that the estimated lives saved when 
 3. [Auto Crash Statistics - 2015](http://www.iii.org/issue-update/auto-crashes)
 4. [Removing Roadblocks to Intelligent Vehicles and Driverless Cars](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)
 
-
+<!--
 ### Placeholder for life saving impact
 [People Want Driverless Cars with Utilitarian Ethics, Unless They're a Passenger](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/people-want-driverless-cars-with-utilitarian-ethics-unless-theyre-a-passenger#.WEM7zSIKcM8.link)
 
@@ -43,4 +43,4 @@ When comparing the two tables it is obvious that the estimated lives saved when 
 [Why Self-Driving Cars Must Be Programmed to Kill](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill)
 
 [Why Ethics Matters for Autonomous Cars](https://www.researchgate.net/publication/303480862_Why_Ethics_Matters_for_Autonomous_Cars)
-
+-->
