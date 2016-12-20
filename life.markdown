@@ -16,10 +16,12 @@ This is clear when examining the ethical frameworks of some companies. For examp
 It is evidently clear that cars are dangerous machines that do result in lives being lost. This is probably why most questions have to do with who’s life should be saved in certain trolley problem like scenarios. While these questions are repetitive and tiresome to read it doesn’t mean that these questions shouldn’t be asked. However, it should be noted that self-driving cars are most likely going to be much safer than human drivers. Mercedes’s manager of driver assistance systems states, “Computer-driven cars will be able to react in ways that human drivers will not be able to handle. Besides, most of the time the car will prioritize not crashing in the first place.”<sup>[2](https://www.inverse.com/article/22204-mercedes-benz-self-driving-cars-ai-ethics)</sup>
 
 *Car Related Death's 2015* <sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>  
+--- 
 | Number of Deaths | 35,092 |  
 | Deaths per 100k people | 10.9 |  
 
 *Estimated Annual Benefits* <sup>[4](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)</sup>  
+---
 | Assumed Adoption Rate | 10 | 50 | 90 |  
 | --------------------- | -- | -- | -- |  
 | Lives saved (per year) | 1,100 | 9,600 | 21,700 |  
