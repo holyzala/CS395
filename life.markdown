@@ -29,10 +29,19 @@ It is evidently clear that cars are dangerous machines that do result in lives b
 
 When comparing the two tables it is obvious that the estimated lives saved when the adoption rate reaches 90% almost erases the 2015 death totals. It is also safe to assume that injuries and insurance claims would drop as well. So if self-driving cars are so much safer than human drivers than why do we put a heavier burden on the self-driving car than we do with human drivers?
 
+### Driver Impairment
+
+The fact that we put a heavier burden on autonomous vehicles than we do with human drivers is evident in that humans do not always drive in an ethical manner. The top two causes of car deaths were by speeding and drunk driving<sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>. In fact, 29% of fatalities in crashes were due to drunk driving and 28% of fatalities were from the result of driving too fast. You could conclude that a 100% adoption rate of autonomous vehicles would erase 29% of fatal crashes simply because a computer does not drink alcohol. Furthermore, autonomous vehicles would go a long way to prevent other fatal crashes involving fatigue, talking on a cell phone or other driving distractions that human drivers encounter almost every day.
+---
+When we discuss the ethical decisions an autonomous vehicle has to make to save a person’s life one most not forget to mention that since the first autonomous vehicle drove onto the roadways in 2009 there has only been 1 fatal accident involving an autonomous vehicle<sup>[5](https://www.ft.com/content/013d6f46-3f12-11e6-9f2c-36b487ebd80a)</sup> and only 17 minor crashes<sup>[3]((http://www.iii.org/issue-update/auto-crashes)</sup>. While there should be more communication between car and tech companies about how their cars will respond to one another, it is more important for people to ask if it is unethical for humans to continue driving.
+
+
 1. [The soial dilemma of autonomous vehicles](http://science.sciencemag.org/content/352/6293/1573)
 2. [Mercede's Self-Driving Cars Will Kill Pedestrians Over Drivers](https://www.inverse.com/article/22204-mercedes-benz-self-driving-cars-ai-ethics)
 3. [Auto Crash Statistics - 2015](http://www.iii.org/issue-update/auto-crashes)
 4. [Removing Roadblocks to Intelligent Vehicles and Driverless Cars](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)
+5. [Tesla reveals first self-driving car death](https://www.ft.com/content/013d6f46-3f12-11e6-9f2c-36b487ebd80a) 
+
 
 <!--
 ### Placeholder for life saving impact
