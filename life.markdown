@@ -18,8 +18,8 @@ It is evidently clear that cars are dangerous machines that do result in lives b
 *Car Related Death's 2015* <sup>[3](http://www.iii.org/issue-update/auto-crashes)</sup>  
 --- 
 
-| Number of Deaths | 35,092 |
-| Deaths per 100k people | 10.9 | 
+* Number of Deaths - 35,092  
+* Deaths per 100k people - 10.9  
 
 *Estimated Annual Benefits* <sup>[4](https://asp.mercatus.org/system/files/Thierer-Intelligent-Vehicles.pdf)</sup>  
 ---
